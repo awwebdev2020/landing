@@ -1,0 +1,19 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: black;
+}
+
+.footer a {
+  font-size: 30px;
+  color: white;
+}
+
+.footer p {
+    color: lightslategray;
+}
+
+.footer ul {
+    display: flex;
+    justify-content: space-evenly;
+}
